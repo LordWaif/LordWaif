@@ -1,5 +1,9 @@
 ### Olá, eu sou Jasson 👋
 
+📚 Estudante de Ciência da Computação na Universidade Federal do Piauí - UFPI.
+
+💼 Estagiário em Ciência da Computação no Tribunal de Contas do Estado do Piauí - TCE-PI.
+
 ### 🛠 &nbsp;Tech Stack
 - 🌐 &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
