@@ -44,7 +44,7 @@
 ![AlpineJS](https://img.shields.io/badge/-AlpineJS-333333?style=for-the-badge&logo=alpine.js)&nbsp;
 ![Metabase](https://img.shields.io/badge/-Metabase-0D1117?style=for-the-badge&logo=metabase&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-![snake gif](https://github.com/LordWaif/LordWaif/blob/output/github-contribution-grid-snake.svg)
+<!--![snake gif](https://github.com/LordWaif/LordWaif/blob/output/github-contribution-grid-snake.svg) -->
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
